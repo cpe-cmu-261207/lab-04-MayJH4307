@@ -1,3 +1,50 @@
 body {
   background-color: whitesmoke;
 }
+
+.input {
+  text-align: center;
+}
+
+#sub{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  background-color: rgb(125, 175, 219);
+  border-radius: 4px;
+}
+
+input {
+  border-radius: 2px;
+  margin: 5px;
+}
+
+select {
+  height: 24px;
+  width: 177.6px;
+  margin: 5px;
+  border-radius: 2px;
+}
+
+option {
+  border-radius: 2px;
+  border-color: white;
+}
+
+#ta{
+  background-color:rgb(125, 175, 219, 0.5);
+  padding: 20px;
+  width: 80%;
+  margin-bottom: 5px;
+}
+
+#but {
+  text-align: center;
+  width: 20%;
+}
+
+#fst {
+  padding-left: 10px;
+}
+
+
